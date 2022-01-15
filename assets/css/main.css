@@ -1791,7 +1791,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		header.major > p {
+		header.  > p {
 			font-size: 0.7em;
 			font-weight: 600;
 			letter-spacing: 0.25em;
@@ -2839,7 +2839,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ec8d81;
+				background-color: #ff6347;
 			}
 
 			.tiles article:nth-child(6n - 2):before {

@@ -1,0 +1,29 @@
+#banner > .inner .content p {
+    font-size: 0.8em;
+    font-weight: 600;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+}
+
+.video-container {
+  height: 70vh;
+  width: 100%;
+  text-align: center;
+}
+
+.video-content {
+  width: 80%;
+  height: 100%;
+}
+
+.answer {
+  text-align: justify;
+}
+
+.qa-container {
+  margin-top: 64px;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
